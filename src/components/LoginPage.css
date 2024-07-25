@@ -1,0 +1,11 @@
+.form-all {
+  margin-top: 120px;
+  border: 1px solid grey;
+  padding: 20px;
+  border-radius: 50px 0 50px 0;
+}
+.form-all h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 36px;
+}
